@@ -24,7 +24,7 @@ Beneath this story,  we find a  database that contains information about sightin
 
 The data is filtered by filling out one or more parameters. As more parameters are added, the results are refined. Filling out all parameters will give fewer and more defined results.
 
-![alt text](web_page.PNG)
+![alt text](web_page3.PNG)
 
 The image above shows search results with filter parameters:
 - City: San Diego
