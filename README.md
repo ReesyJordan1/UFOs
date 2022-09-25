@@ -11,7 +11,7 @@ Results
 
 On viewing the webpage, UFO Finder,  we first see the page titles and introductory paragraphs that give a background to our analysis. 
 
-![alt text](ros.png)
+![alt text](Web_page.png)
 
 Beneath this story,  we find a  database that contains information about sightings. This database specifies the date, city, state and country of sighting, the shape of the UFO and comments that describe the sightings. The search filter pane is located at the left of the database. It takes in parameters to filter our data by:
 - Date of sighting
@@ -20,11 +20,11 @@ Beneath this story,  we find a  database that contains information about sightin
 - Country of sighting
 - Shape of UFO
 
-![alt text](ros.png)
+![alt text](Web_page2.png)
 
 The data is filtered by filling out one or more parameters. As more parameters are added, the results are refined. Filling out all parameters will give fewer and more defined results.
 
-![alt text](ros.png)
+![alt text](web_page3.png)
 
 The image above shows search results with filter parameters:
 - City: San Diego
